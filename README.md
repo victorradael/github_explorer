@@ -8,6 +8,14 @@
 
 ---
 
+To clone the repository
+
+```
+git clone https://github.com/victorradael/github_explorer.git
+```
+
+To install the dependencies use the `npm install` command or, if you use **Yarn** use the `yarn` command.
+
 ### Project developed during the **GoStack Bootcamp** minitrated by **Rocketseat**.
 
 ![alt](./src/assets/ex.png)
